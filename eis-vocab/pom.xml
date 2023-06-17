@@ -2,7 +2,7 @@
 <!--
   Copyright Fraunhofer IAIS
   https://www.dataspaces.fraunhofer.de/en/software/broker.html
-  Author: Ahmad Hemid
+  Author: Waleed Shabbir
   
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
@@ -98,7 +98,7 @@
         <repository>
             <id>eis-public-repo</id>
             <name>maven-public</name>
-            <url>http://maven.iais.fraunhofer.de/artifactory/eis-ids-public</url>
+            <url>https://maven.iais.fraunhofer.de/artifactory/eis-ids-public</url>
         </repository>
     </repositories>
     <licenses>
